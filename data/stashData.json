@@ -1,0 +1,542 @@
+{
+  "stashData": [
+    {
+      "date": "2017-06-08",
+      "balance": 10,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-06-15",
+      "balance": 30,
+      "stash_amount": 20
+    },
+    {
+      "date": "2017-06-15",
+      "balance": 20,
+      "stash_amount": -10
+    },
+    {
+      "date": "2017-07-13",
+      "balance": 750,
+      "stash_amount": 730
+    },
+    {
+      "date": "2017-07-13",
+      "balance": 760,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-07-13",
+      "balance": 707,
+      "stash_amount": -53
+    },
+    {
+      "date": "2017-07-13",
+      "balance": 706,
+      "stash_amount": -1
+    },
+    {
+      "date": "2017-07-13",
+      "balance": 707,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-07-13",
+      "balance": 708,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-07-14",
+      "balance": 706,
+      "stash_amount": -2
+    },
+    {
+      "date": "2017-07-14",
+      "balance": 701,
+      "stash_amount": -5
+    },
+    {
+      "date": "2017-07-14",
+      "balance": 702,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-08-18",
+      "balance": 712,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-08-21",
+      "balance": 713,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-08-28",
+      "balance": 714,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-08-30",
+      "balance": 715,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-08-30",
+      "balance": 714,
+      "stash_amount": -1
+    },
+    {
+      "date": "2017-08-30",
+      "balance": 715,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-09-13",
+      "balance": 716,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-10-17",
+      "balance": 800,
+      "stash_amount": 84
+    },
+    {
+      "date": "2017-10-18",
+      "balance": 820,
+      "stash_amount": 20
+    },
+    {
+      "date": "2017-10-18",
+      "balance": 920,
+      "stash_amount": 100
+    },
+    {
+      "date": "2017-10-20",
+      "balance": 940,
+      "stash_amount": 20
+    },
+    {
+      "date": "2017-10-20",
+      "balance": 920,
+      "stash_amount": -20
+    },
+    {
+      "date": "2017-10-20",
+      "balance": 950,
+      "stash_amount": 30
+    },
+    {
+      "date": "2017-10-23",
+      "balance": 960,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-11-03",
+      "balance": 985,
+      "stash_amount": 25
+    },
+    {
+      "date": "2017-11-15",
+      "balance": 995,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-11-17",
+      "balance": 996,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-11-17",
+      "balance": 946,
+      "stash_amount": -50
+    },
+    {
+      "date": "2017-11-20",
+      "balance": 1106,
+      "stash_amount": 160
+    },
+    {
+      "date": "2017-11-20",
+      "balance": 956,
+      "stash_amount": -150
+    },
+    {
+      "date": "2017-11-20",
+      "balance": 756,
+      "stash_amount": -200
+    },
+    {
+      "date": "2017-12-05",
+      "balance": 856,
+      "stash_amount": 100
+    },
+    {
+      "date": "2017-12-05",
+      "balance": 857,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-12-05",
+      "balance": 877,
+      "stash_amount": 20
+    },
+    {
+      "date": "2017-12-05",
+      "balance": 887,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-12-06",
+      "balance": 897,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-12-06",
+      "balance": 1000,
+      "stash_amount": 103
+    },
+    {
+      "date": "2017-12-06",
+      "balance": 400,
+      "stash_amount": -600
+    },
+    {
+      "date": "2017-12-06",
+      "balance": 700,
+      "stash_amount": 300
+    },
+    {
+      "date": "2017-12-06",
+      "balance": 710,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 800,
+      "stash_amount": 90
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 801,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 821,
+      "stash_amount": 20
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 831,
+      "stash_amount": 10
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 832,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 833,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 834,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 850,
+      "stash_amount": 16
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 851,
+      "stash_amount": 1
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 850,
+      "stash_amount": -1
+    },
+    {
+      "date": "2017-12-07",
+      "balance": 910,
+      "stash_amount": 60
+    },
+    {
+      "date": "2017-12-12",
+      "balance": 1030,
+      "stash_amount": 120
+    },
+    {
+      "date": "2017-12-12",
+      "balance": 1000,
+      "stash_amount": -30
+    },
+    {
+      "date": "2017-12-12",
+      "balance": 1030,
+      "stash_amount": 30
+    },
+    {
+      "date": "2017-12-12",
+      "balance": 1060,
+      "stash_amount": 30
+    },
+    {
+      "date": "2017-12-20",
+      "balance": 1090,
+      "stash_amount": 30
+    },
+    {
+      "date": "2017-12-24",
+      "balance": 890,
+      "stash_amount": -200
+    },
+    {
+      "date": "2018-01-24",
+      "balance": 970,
+      "stash_amount": 80
+    },
+    {
+      "date": "2018-01-28",
+      "balance": 975,
+      "stash_amount": 5
+    },
+    {
+      "date": "2018-01-30",
+      "balance": 979,
+      "stash_amount": 4
+    },
+    {
+      "date": "2018-01-30",
+      "balance": 983,
+      "stash_amount": 4
+    },
+    {
+      "date": "2018-01-31",
+      "balance": 1133,
+      "stash_amount": 150
+    },
+    {
+      "date": "2018-02-01",
+      "balance": 1052.56,
+      "stash_amount": -80.44
+    },
+    {
+      "date": "2018-02-05",
+      "balance": 1192.56,
+      "stash_amount": 140
+    },
+    {
+      "date": "2018-02-07",
+      "balance": 1232.56,
+      "stash_amount": 40
+    },
+    {
+      "date": "2018-02-07",
+      "balance": 0.5599999999999454,
+      "stash_amount": -1232
+    },
+    {
+      "date": "2018-02-07",
+      "balance": 1260.56,
+      "stash_amount": 1260
+    },
+    {
+      "date": "2018-02-13",
+      "balance": 1380.56,
+      "stash_amount": 120
+    },
+    {
+      "date": "2018-02-13",
+      "balance": 1320.56,
+      "stash_amount": -60
+    },
+    {
+      "date": "2018-02-14",
+      "balance": 1420.56,
+      "stash_amount": 100
+    },
+    {
+      "date": "2018-02-14",
+      "balance": 1780.56,
+      "stash_amount": 360
+    },
+    {
+      "date": "2018-02-14",
+      "balance": 1160.56,
+      "stash_amount": -620
+    },
+    {
+      "date": "2018-02-28",
+      "balance": 1164.56,
+      "stash_amount": 4
+    },
+    {
+      "date": "2018-02-28",
+      "balance": 1168.56,
+      "stash_amount": 4
+    },
+    {
+      "date": "2018-03-14",
+      "balance": 1888.56,
+      "stash_amount": 720
+    },
+    {
+      "date": "2018-03-14",
+      "balance": 1448.56,
+      "stash_amount": -440
+    },
+    {
+      "date": "2018-03-20",
+      "balance": 1628.56,
+      "stash_amount": 180
+    },
+    {
+      "date": "2018-03-28",
+      "balance": 1528.56,
+      "stash_amount": -100
+    },
+    {
+      "date": "2018-03-28",
+      "balance": 2308.56,
+      "stash_amount": 780
+    },
+    {
+      "date": "2018-03-29",
+      "balance": 15.559999999999945,
+      "stash_amount": -2293
+    },
+    {
+      "date": "2018-03-29",
+      "balance": 1695.56,
+      "stash_amount": 1680
+    },
+    {
+      "date": "2018-04-10",
+      "balance": 1835.56,
+      "stash_amount": 140
+    },
+    {
+      "date": "2018-04-19",
+      "balance": 1735.56,
+      "stash_amount": -100
+    },
+    {
+      "date": "2018-04-24",
+      "balance": 1935.56,
+      "stash_amount": 200
+    },
+    {
+      "date": "2018-04-24",
+      "balance": 2035.56,
+      "stash_amount": 100
+    },
+    {
+      "date": "2018-04-25",
+      "balance": 2060.56,
+      "stash_amount": 25
+    },
+    {
+      "date": "2018-05-21",
+      "balance": 2410.56,
+      "stash_amount": 350
+    },
+    {
+      "date": "2018-05-22",
+      "balance": 2550.56,
+      "stash_amount": 140
+    },
+    {
+      "date": "2018-05-24",
+      "balance": 2830.56,
+      "stash_amount": 280
+    },
+    {
+      "date": "2018-05-24",
+      "balance": 2770.56,
+      "stash_amount": -60
+    }
+  ],
+  "monthData": [
+    {
+      "year_month": "2017-07",
+      "net_stash_amount": 682,
+      "end_of_month_stash_balance": 702,
+      "velocity": 351
+    },
+    {
+      "year_month": "2017-08",
+      "net_stash_amount": 13,
+      "end_of_month_stash_balance": 715,
+      "velocity": 238.33333333333334
+    },
+    {
+      "year_month": "2017-09",
+      "net_stash_amount": 1,
+      "end_of_month_stash_balance": 716,
+      "velocity": 179
+    },
+    {
+      "year_month": "2017-10",
+      "net_stash_amount": 244,
+      "end_of_month_stash_balance": 960,
+      "velocity": 192
+    },
+    {
+      "year_month": "2017-11",
+      "net_stash_amount": -204,
+      "end_of_month_stash_balance": 756,
+      "velocity": 160
+    },
+    {
+      "year_month": "2017-12",
+      "net_stash_amount": 134,
+      "end_of_month_stash_balance": 890,
+      "velocity": 182.33333333333334
+    },
+    {
+      "year_month": "2018-01",
+      "net_stash_amount": 243,
+      "end_of_month_stash_balance": 1133,
+      "velocity": 222.83333333333334
+    },
+    {
+      "year_month": "2018-02",
+      "net_stash_amount": 35.559999999999945,
+      "end_of_month_stash_balance": 1168.56,
+      "velocity": 228.76
+    },
+    {
+      "year_month": "2018-03",
+      "net_stash_amount": 527,
+      "end_of_month_stash_balance": 1695.56,
+      "velocity": 316.5933333333333
+    },
+    {
+      "year_month": "2018-04",
+      "net_stash_amount": 365,
+      "end_of_month_stash_balance": 2060.56,
+      "velocity": 377.4266666666667
+    },
+    {
+      "year_month": "2018-05",
+      "net_stash_amount": 710,
+      "end_of_month_stash_balance": 2770.56,
+      "velocity": 495.76
+    },
+    {
+      "year_month": "2018-06",
+      "net_stash_amount": 0,
+      "end_of_month_stash_balance": 2770.56,
+      "velocity": 495.76
+    }
+  ],
+  "currentNetStash": 0,
+  "currentStashBalance": 2770.56,
+  "velocity": 495.76,
+  "aboveBelowTypical": -495.76
+}
